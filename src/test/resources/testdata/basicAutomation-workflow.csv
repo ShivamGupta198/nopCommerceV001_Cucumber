@@ -1,0 +1,5 @@
+testID,loginID,password,firstName
+us001,admin@yourstore.com,admin
+us002_orderOfVictoria,admin@yourstore.com,admin,Brenda
+us002_orderOfBrenda,admin@yourstore.com,admin,Victoria
+us003,admin@yourstore.com,admin
