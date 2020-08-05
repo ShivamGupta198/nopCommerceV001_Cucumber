@@ -1,4 +1,4 @@
-
+@basicTests
 Feature: basicBarclay-workflow
 
 	@us001
@@ -21,7 +21,7 @@ Feature: basicBarclay-workflow
 		| us002_orderOfBrenda |
 
 	@us003 @scripttag
-	Scenario: Successful Login with Valid Credentials
+	Scenario: Successful Login and script validation
 		Given User Launch needed website
 		And Validated nopCommerce script
 		And Validated api response
